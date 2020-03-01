@@ -1,0 +1,11 @@
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\JMT.exe.config
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\JMT.exe
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\JMT.pdb
+C:\Users\bbasto\Desktop\JMT\JMT\obj\Debug\JMT.csprojAssemblyReference.cache
+C:\Users\bbasto\Desktop\JMT\JMT\obj\Debug\JMT.exe
+C:\Users\bbasto\Desktop\JMT\JMT\obj\Debug\JMT.pdb
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\bbasto\Desktop\JMT\JMT\obj\Debug\JMT.csproj.CopyComplete
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\bbasto\Desktop\JMT\JMT\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml

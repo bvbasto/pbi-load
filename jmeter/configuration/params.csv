@@ -1,0 +1,4 @@
+SELECT [Measures].[Internet Total Sales] ON COLUMNS, [Date].[Calendar Year].Members ON ROWS from [Adventure Works Internet Sales Model]
+SELECT [Measures].[Internet Total Sales] ON COLUMNS, [Date].[Calendar Year] ON ROWS from [Adventure Works Internet Sales Model]
+SELECT [Measures].[Internet Total Sales] ON COLUMNS, [Product].[Product Name].Members ON ROWS from [Adventure Works Internet Sales Model]
+EVALUATE('Internet Sales')
